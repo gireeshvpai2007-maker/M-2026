@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+
+pandas
+numpy
+scikit-learn
+
+networkx
+
+requests
+beautifulsoup4
+
+spacy
+
+joblib
