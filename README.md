@@ -596,8 +596,8 @@ python app.py
 | **Gireesh V Pai** | Team Leader & AI/Backend Lead |
 | **H V Varun Prabhu** | Frontend & UI/UX Lead |
 | **Nihal H G** | AI/ML & Data Engineer |
-| **Sanvi Anil Kalnad** | Backend & Systems Engineer |
-| **Deepthi Dongre** | Backend & Systems Engineer  |
+| **Sanvi Anil Kalnad** | Backend & API Engineer |
+| **Deepthi Dongre** | Product, Research & Testing Lead  |
 
 ---
 
